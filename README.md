@@ -4,7 +4,7 @@ This Simple Tool Maked By _m.e070
 
 How To Use?
 
- Run The Project Using This Commands `python3 main.py`
- Insert The Webhook Url
- Insert The Spam Message
+ Run The Project Using This Commands `python3 main.py` \n
+ Insert The Webhook Url \n
+ Insert The Spam Message \n
  Now have fun with the Tool :)
